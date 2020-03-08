@@ -22,7 +22,7 @@ h1 {
 }
 
 .glitch::before {
-    content: attr(data-text);
+    content: attr(gtext);
     position: absolute;
     top: 0;
     left: 0;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .glitch::after {
-    content: attr(data-text);
+    content: attr(gtext);
     position: absolute;
     top: 0;
     left: 0;
