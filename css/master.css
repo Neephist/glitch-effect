@@ -18,6 +18,7 @@ h1 {
     color: white;
     font-size: 58px;
     letter-spacing: .3em;
+    aling-items: center;
     animation: glitch-skew 1s infinite linear alternate-reverse;
 }
 
